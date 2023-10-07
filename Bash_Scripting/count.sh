@@ -9,7 +9,7 @@ while [ $COUNT -lt $USER_VALUE ]
 
 do 
  echo "COUNT = $COUNT"
- let COUNT=COUNT+1
+  ((COUNT=COUNT+1))
  done
 
  echo "while looped finished"
