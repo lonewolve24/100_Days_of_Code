@@ -5,7 +5,7 @@ PLAYING=0
 
 while [ $PLAYING -eq 0 ]
 do
- read -p "Please gues a number" USER_VALUE
+ read -p "Please gues a number" USER_VALUE   
  if [ $USER_VALUE -eq $COMPUTER_VALUE ]
  then 
     echo "you guessed it buddy"

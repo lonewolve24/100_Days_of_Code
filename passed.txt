@@ -1,3 +1,0 @@
-Engish = 75%
-Maths = 82%
-Science = 69$

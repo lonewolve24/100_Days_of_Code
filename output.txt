@@ -1,4 +1,0 @@
- LINE 1 : Engish = 75%
- LINE 2 : Maths = 82%
- LINE 1 : Engish = 75%
- LINE 2 : Maths = 82%
